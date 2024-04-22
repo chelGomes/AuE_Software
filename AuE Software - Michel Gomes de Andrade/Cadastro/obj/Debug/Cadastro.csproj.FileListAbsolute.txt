@@ -1,0 +1,12 @@
+C:\Users\Michel\OneDrive\Área de Trabalho\AuE Software - Michel Gomes de Andrade\Cadastro\bin\Debug\Cadastro.exe.config
+C:\Users\Michel\OneDrive\Área de Trabalho\AuE Software - Michel Gomes de Andrade\Cadastro\bin\Debug\Cadastro.exe
+C:\Users\Michel\OneDrive\Área de Trabalho\AuE Software - Michel Gomes de Andrade\Cadastro\bin\Debug\Cadastro.pdb
+C:\Users\Michel\OneDrive\Área de Trabalho\AuE Software - Michel Gomes de Andrade\Cadastro\obj\Debug\Cadastro.csproj.AssemblyReference.cache
+C:\Users\Michel\OneDrive\Área de Trabalho\AuE Software - Michel Gomes de Andrade\Cadastro\obj\Debug\Cadastro.csproj.SuggestedBindingRedirects.cache
+C:\Users\Michel\OneDrive\Área de Trabalho\AuE Software - Michel Gomes de Andrade\Cadastro\obj\Debug\Cadastro.Form1.resources
+C:\Users\Michel\OneDrive\Área de Trabalho\AuE Software - Michel Gomes de Andrade\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+C:\Users\Michel\OneDrive\Área de Trabalho\AuE Software - Michel Gomes de Andrade\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+C:\Users\Michel\OneDrive\Área de Trabalho\AuE Software - Michel Gomes de Andrade\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\Michel\OneDrive\Área de Trabalho\AuE Software - Michel Gomes de Andrade\Cadastro\obj\Debug\Cadastro.exe
+C:\Users\Michel\OneDrive\Área de Trabalho\AuE Software - Michel Gomes de Andrade\Cadastro\obj\Debug\Cadastro.pdb
+C:\Users\Michel\OneDrive\Área de Trabalho\AuE Software - Michel Gomes de Andrade\Cadastro\bin\Debug\auebd.mdb
